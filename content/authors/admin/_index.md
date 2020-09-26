@@ -30,10 +30,10 @@ education:
   - course: PhD in Texts and Technology (Digital Media)
     institution: University of Central Florida
     year: 2023
-  - course: MEng in Artificial Intelligence
+  - course: MFA in Feature Film Production
     institution: University of Central Florida
     year: 2020
-  - course: BSc in Artificial Intelligence
+  - course: MBA in Entrepreneurship
     institution: University of Central Florida
     year: 2018
 
