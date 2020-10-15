@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Bailey
+title: David L Bailey
 
 # Username (this should match the folder name)
 authors:
