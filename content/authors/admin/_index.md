@@ -22,7 +22,7 @@ bio: My research interests include distributed digital media, mobile filmmaking 
 
 interests:
 - Digital Media
-- Film
+- Film Production
 - Digital Storytelling
 
 education:
