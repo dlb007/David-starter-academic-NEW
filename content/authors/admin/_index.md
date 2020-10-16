@@ -31,10 +31,10 @@ education:
   - course: Doctor of Philosphy in Texts and Technology (Digital Media)
     institution: University of Central Florida
     year: 2023
-  - course: Master of Fine Arts in Feature Film Production
+  - course: Master of Fine Arts in Emerging Media (Feature Film Production)
     institution: University of Central Florida
     year: 2020
-  - course: Master of Business Administration in Entrepreneurship
+  - course: Master of Business Administration (Entrepreneurship)
     institution: University of Central Florida
     year: 2018
   - course: Bachelor of Science in Liberal Studies
@@ -78,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-David Bailey is researcher and PhD Student toward digital media in relation to Texts and Technology at the University of Central Florida. His research interests include digital media, mobile filmmaking and programmable storytelling. He leads the way on academic digital filmmaking formats, which develops self-reconfiguring capture, systems of self-organizing digital video, and mobile device interplay.
+David Bailey is researcher and PhD Student toward digital media in relation to Texts and Technology at the University of Central Florida. His research interests include digital media, mobile filmmaking and programmable remote direction in storytelling. He leads the way on academic digital filmmaking formats, which develops self-reconfiguring capture, systems of self-organizing digital video, and mobile device interplay.
 
 
