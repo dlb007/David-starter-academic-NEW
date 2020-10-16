@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Research Assistant"
+  company = "University of Central Florida"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
