@@ -5,10 +5,10 @@ event_url: https://example.org
 
 location: Source Themes HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: PO BOX 1058
+  city: Christmas
+  region: FL
+  postcode: '32709'
   country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
