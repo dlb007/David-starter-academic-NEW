@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2018-08-24"
   date_end = "2020-05-04"
-  description = """"""
+  description = """
   Responsibilities include:
   
   * International Research
