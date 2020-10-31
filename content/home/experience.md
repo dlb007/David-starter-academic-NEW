@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Florida"
   date_start = "2018-08-24"
-  date_end = "2020-05-4"
-  description = """Researched to activate informational data toward international recruitment channels and landscapes."""
+  date_end = "2020-05-04"
+  description = """Internatioal Research and departmental social media protocols."""
 
 +++
