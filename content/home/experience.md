@@ -23,22 +23,22 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Florida"
   date_start = "2019-01-04"
-  date_end = ""
+  date_end = "2020-08-03"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Active Learning Platform
+  * Technical Delivery Protocols
+  * Asssist Entrepreneurial Launchpad 
   """
 
 [[experience]]
   title = "Graduate Research Assistant"
   company = "University of Central Florida"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Florida"
+  date_start = "2018-08-24"
+  date_end = "2020-05-4"
+  description = """Researched to activate informational data toward international recruitment channels and landscapes."""
 
 +++
