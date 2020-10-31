@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Active Learning Platform
   * Technical Delivery Protocols
-  * Asssist Entrepreneurial Launchpad 
+  * Assist Entrepreneurial Launchpad 
   """
 
 [[experience]]
