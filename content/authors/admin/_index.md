@@ -76,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-David Bailey is researcher and PhD Student toward digital media in relation to Texts and Technology at the University of Central Florida. His research interests include digital media, mobile filmmaking and programmable remote direction in storytelling. He leads the way on academic digital filmmaking formats, which develops self-reconfiguring capture, systems of self-organizing digital video, and mobile device interplay.
+David Bailey is researcher and Texts and Technology PhD Student in relation digital media at the University of Central Florida. His research interests include digital media, mobile filmmaking and programmable remote direction in storytelling. He leads the way on academic digital filmmaking formats, which develops self-reconfiguring capture, systems of self-organizing digital video, and mobile device interplay.
 
 
