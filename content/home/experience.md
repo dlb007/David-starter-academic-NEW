@@ -45,5 +45,5 @@ date_format = "Jan 2006"
   * International Research
   * Social Media Recruitment Strategies
   * Digital Advertisement and Budgeting 
-
+"""
 +++
