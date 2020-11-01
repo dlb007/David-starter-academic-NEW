@@ -76,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-David Bailey is currently an academic researcher in Texts and Technology PhD in relation digital media at the University of Central Florida. His research interests include digital media, mobile filmmaking and programmable remote direction in storytelling. He leads the way on academic digital filmmaking formats, which develops self-reconfiguring capture, systems of self-organizing digital video, and mobile device interplay.  Background stems from media production with the Orlando Magic and Seaworld Entertainment working as a Technical Director with production experience on such films as First of May, Waterboy, Half Baked, and Soda Pop.
+David Bailey is an academic researcher of Texts and Technology in Digital Media at the University of Central Florida. Research interests include mobile filmmaking and programmable remote direction in storytelling. He leads the way in digital filmmaking formats, which develops self-reconfiguring capture, systems of self-organizing digital video, and mobile device interplay.  Media production experience stems from Orlando Magic and Seaworld Entertainment exployment as a Technical Director overseeing broadcast interfaces and live marine animal shows.  Studio and Film production experience resides from films such as First of May, Waterboy, Half Baked, and Soda Pop.
 
 
