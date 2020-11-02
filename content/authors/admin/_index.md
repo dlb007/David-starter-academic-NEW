@@ -79,11 +79,9 @@ user_groups:
 David Bailey is an academic researcher of Texts and Technology in Digital Media at the
 University of Central Florida. He was a Graduate Teaching Assistant with the UCF Blackstone
 LaunchPad and Center for Innovation and Entrepreneurship and a Directed Research Assistant
-with the UCF Film and Media Department. Research interests include mobile filmmaking and
+with the UCF Film and Media Department. Research interests include mobile digital filmmaking and
 programmable remote direction in storytelling through Zoom and other media platforms.
-Interests include Digital filmmaking toward developing self-reconfiguring capture of digital
-video formats and mobile device interplay. Technical Studio Director and Media production
-experience with the Orlando Magic NBA, SeaWorld Entertainment, and films including First of
-May, Waterboy, Half Baked, Disturbing Behavior, and Soda Pop.
+As well as developing self-reconfiguring capture of digital video formats and mobile device interplay. 
+Technical Studio Director and Media production experience with the Orlando Magic NBA, SeaWorld Entertainment, and films including First of May, Waterboy, Half Baked, Disturbing Behavior, and Soda Pop.
 
 
