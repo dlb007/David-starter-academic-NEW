@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Active Learning Platform
   * Technical Delivery Protocols
-  * Assist Entrepreneurial Launchpad 
+  * Entrepreneurial Blackstone Launchpad 
   """
 
 [[experience]]
