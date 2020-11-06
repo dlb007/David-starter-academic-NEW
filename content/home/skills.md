@@ -39,10 +39,10 @@ subtitle = ""
   description = "100%"
   
 [[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
-  description = "60%"  
+  icon = "jstor"
+  icon_pack = "ai"
+  name = "jstor"
+  description = "70%"  
   
 [[feature]]
   icon = "ideas-repec"
