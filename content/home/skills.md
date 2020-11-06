@@ -45,9 +45,9 @@ subtitle = ""
   description = "100%"
 
 [[feature]]
-  icon = "jstor"
+  icon = "elsevier"
   icon_pack = "ai"
-  name = "Jstor"
+  name = "Elsevier"
   description = "80%"
 
 # Uncomment to use emoji icons.
