@@ -15,24 +15,6 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "zotero"
-  icon_pack = "ai"
-  name = "Zotero"
-  description = "100%"
-  
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
-  description = "60%"  
-  
-[[feature]]
-  icon = "ideas-repec"
-  icon_pack = "ai"
-  name = "Ideas-Repec"
-  description = "60%"
-  
-[[feature]]
   icon = "film"
   icon_pack = "fas"
   name = "Film"
@@ -49,6 +31,24 @@ subtitle = ""
   icon_pack = "fab"
   name = "d-and-d"
   description = "100%"
+
+[[feature]]
+  icon = "zotero"
+  icon_pack = "ai"
+  name = "Zotero"
+  description = "100%"
+  
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "60%"  
+  
+[[feature]]
+  icon = "ideas-repec"
+  icon_pack = "ai"
+  name = "Ideas-Repec"
+  description = "60%"
 
 
 
