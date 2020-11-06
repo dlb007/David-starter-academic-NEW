@@ -36,19 +36,19 @@ subtitle = ""
   icon = "film"
   icon_pack = "fab"
   name = "Film"
-  description = "20%"
-
+  description = "110%"
+  
   [[feature]]
   icon = "vimeo"
   icon_pack = "fab"
   name = "Vimeo"
-  description = "20%"
+  description = "100%"
 
   [[feature]]
   icon = "jstor"
   icon_pack = "ai"
   name = "Jstor"
-  description = "20%"
+  description = "80%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
