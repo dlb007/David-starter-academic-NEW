@@ -31,6 +31,24 @@ subtitle = ""
   icon_pack = "fab"
   name = "Markdown"
   description = "20%"
+  
+  [[feature]]
+  icon = "film"
+  icon_pack = "fab"
+  name = "Film"
+  description = "20%"
+
+  [[feature]]
+  icon = "music"
+  icon_pack = "fab"
+  name = "Music"
+  description = "20%"
+
+  [[feature]]
+  icon = "jstor"
+  icon_pack = "ai"
+  name = "Jstor"
+  description = "20%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
