@@ -41,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = "jstor"
   icon_pack = "ai"
-  name = "jstor"
+  name = "Jstor"
   description = "70%"  
   
 [[feature]]
