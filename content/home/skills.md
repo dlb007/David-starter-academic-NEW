@@ -27,24 +27,24 @@ subtitle = ""
   description = "60%"  
   
 [[feature]]
-  icon = "markdown"
-  icon_pack = "fab"
-  name = "Markdown"
-  description = "20%"
+  icon = "ideas-repec"
+  icon_pack = "ai"
+  name = "Ideas-Repec"
+  description = "60%"
   
-  [[feature]]
+[[feature]]
   icon = "film"
   icon_pack = "fab"
   name = "Film"
   description = "110%"
-  
-  [[feature]]
+
+[[feature]]
   icon = "vimeo"
   icon_pack = "fab"
   name = "Vimeo"
   description = "100%"
 
-  [[feature]]
+[[feature]]
   icon = "jstor"
   icon_pack = "ai"
   name = "Jstor"
