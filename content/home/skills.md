@@ -39,9 +39,9 @@ subtitle = ""
   description = "20%"
 
   [[feature]]
-  icon = "music"
+  icon = "vimeo"
   icon_pack = "fab"
-  name = "Music"
+  name = "Vimeo"
   description = "20%"
 
   [[feature]]
