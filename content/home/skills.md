@@ -45,10 +45,12 @@ subtitle = ""
   description = "100%"
 
 [[feature]]
-  icon = "elsevier"
-  icon_pack = "ai"
-  name = "Elsevier"
-  description = "80%"
+  icon = "vimeo"
+  icon_pack = "fab"
+  name = "Vimeo"
+  description = "100%"
+
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
