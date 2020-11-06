@@ -34,7 +34,7 @@ subtitle = ""
   
 [[feature]]
   icon = "film"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Film"
   description = "110%"
 
