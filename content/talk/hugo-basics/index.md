@@ -1,27 +1,27 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hugo Basics"
-event:
-event_url:
-location:
+title: "Soda Pop Documentary 2021"
+event: Oslo Film Festival
+event_url: Oslofilmfest.com
+location: Oslo
 address:
   street:
   city:
   region:
   postcode:
-  country:
+  country: Norway
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-15T23:42:40-04:00
-date_end: 2020-10-15T23:42:40-04:00
+date: 2021-01-24T21:00:40-04:00
+date_end: 2020-10-15T23:00:40-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-10-15T23:42:40-04:00
+publishDate: 2021-01-24T21:00:40-04:00
 
 authors: []
 tags: []
