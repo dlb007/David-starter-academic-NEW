@@ -4,7 +4,7 @@
 title: "Soda Pop Documentary 2021"
 event: Oslo Film Festival
 event_url: Oslofilmfest.com
-location: Oslo
+location: Oslo, Norway
 address:
   street:
   city:
