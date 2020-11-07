@@ -24,7 +24,7 @@ interests:
 - Digital Media
 - Film Production
 - Digital Storytelling
-- T&T Rules!!
+- Remote Direction
 
 education:
   courses:
