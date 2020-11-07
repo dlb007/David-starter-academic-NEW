@@ -46,20 +46,4 @@ date_format = "Jan 2006"
   * Social Media Recruitment Strategies
   * Digital Advertisement and Budgeting 
   """
-  
-[[experience]]
-  title = "Technical Video Director"
-  company = "SeaWorld Entertainment"
-  company_url = ""
-  location = "Florida"
-  date_start = "2012-9-04"
-  date_end = "2018-09-14"
-  description = """
-  Responsibilities include:
-  
-  * Direct Live Shows and Postproduction
-  * Introduced Technology Training 
-  * Lead Video Entertainment Team 
-  """
-
 +++
