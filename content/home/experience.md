@@ -46,6 +46,7 @@ date_format = "Jan 2006"
   * Social Media Recruitment Strategies
   * Digital Advertisement and Budgeting 
   """
+  
 [[experience]]
   title = "Technical Video Director"
   company = "SeaWorld Entertainment"
@@ -60,4 +61,5 @@ date_format = "Jan 2006"
   * Introduced Technology Training 
   * Lead Video Entertainment Team 
   """
+
 +++
