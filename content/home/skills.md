@@ -39,16 +39,16 @@ subtitle = ""
   description = "100%"
   
 [[feature]]
-  icon = "jstor"
-  icon_pack = "ai"
-  name = "Jstor"
-  description = "70%"  
+  icon = "soundcloud"
+  icon_pack = "fab"
+  name = "SoundCloud"
+  description = "80%"  
   
 [[feature]]
   icon = "ideas-repec"
   icon_pack = "ai"
   name = "Ideas-Repec"
-  description = "60%"
+  description = "70%"
 
 
 
