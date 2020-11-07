@@ -17,17 +17,17 @@ abstract:
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-01-24T21:00:40-04:00
-date_end: 2020-10-15T23:00:40-04:00
+date_end: #2020-10-15T23:00:40-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-01-24T21:00:40-04:00
+publishDate: 2020-10-15T23:42:40-04:00
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
